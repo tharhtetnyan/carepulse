@@ -6,7 +6,7 @@ A free Android health companion built especially for elderly users and their car
 
 ![Free](https://img.shields.io/badge/Free-Download-green) ![Android](https://img.shields.io/badge/Platform-Android-blue) ![Offline](https://img.shields.io/badge/Fully-Offline-orange) ![No Account](https://img.shields.io/badge/No%20Account-Needed-lightgrey)
 
-### [⬇️ Download APK (v1.0)](https://github.com/YOUR_USERNAME/carepulse/releases/download/v1.0/app-release.apk)
+### [⬇️ Download APK (v1.0)](https://github.com/tharhtetnyan31/carepulse/releases/download/v1.0/carepulse.apk)
 
 </div>
 
