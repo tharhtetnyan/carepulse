@@ -22,8 +22,7 @@ A free Android health companion built especially for elderly users and their car
 
 ## 📸 Screenshots
 
-<!-- Add your screenshots here after uploading to a screenshots/ folder -->
-<!-- Example: ![Home](screenshots/home.png) -->
+![CarePulse Screenshots](carepulse_preview.jpg)
 
 ---
 
