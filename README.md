@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🫀 CarePulse
+#  CarePulse
 
 A free Android health companion built especially for elderly users and their caregivers — bringing daily health tasks into one clean, easy-to-use app.
 
@@ -12,7 +12,7 @@ A free Android health companion built especially for elderly users and their car
 
 ---
 
-## 📲 How to install
+##  How to install
 
 1. Download the APK using the button above
 2. On your Android phone, open the downloaded file
@@ -20,28 +20,28 @@ A free Android health companion built especially for elderly users and their car
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ![CarePulse Screenshots](carepulse_preview.jpg)
 
 ---
 
-## ✨ Features
+##  Features
 
 | Feature | Description |
 |---|---|
-| 🏠 Home Dashboard | Personalized greeting, health score, and today's medication status |
-| 💊 Medication Manager | Add, edit, and schedule medications with smart reminders |
-| 🩸 BP Logger | Log systolic/diastolic readings with timestamp and notes |
-| 📈 Analytics | Charts for BP trends and medication adherence history |
-| 🚨 Emergency | Quick-call and SMS contacts with one tap |
-| 📄 Doctor Report | Generate and share a PDF health summary |
-| ⚙️ Settings | Profile setup, reminder preferences, and notification controls |
-| 🌙 Dark Mode | Fully supported with a clean deep-blue theme |
+|  Home Dashboard | Personalized greeting, health score, and today's medication status |
+|  Medication Manager | Add, edit, and schedule medications with smart reminders |
+|  BP Logger | Log systolic/diastolic readings with timestamp and notes |
+|  Analytics | Charts for BP trends and medication adherence history |
+|  Emergency | Quick-call and SMS contacts with one tap |
+|  Doctor Report | Generate and share a PDF health summary |
+|  Settings | Profile setup, reminder preferences, and notification controls |
+|  Dark Mode | Fully supported with a clean deep-blue theme |
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Language:** Kotlin
 - **UI:** Jetpack Compose + Material 3
@@ -52,7 +52,7 @@ A free Android health companion built especially for elderly users and their car
 
 ---
 
-## 📋 Permissions Used
+##  Permissions Used
 
 | Permission | Reason |
 |---|---|
@@ -64,7 +64,7 @@ A free Android health companion built especially for elderly users and their car
 
 ---
 
-## 🔒 Privacy
+##  Privacy
 
 CarePulse is 100% offline. All your health data — medications, blood pressure readings, and profile — is stored locally on your device. Nothing is sent anywhere. No accounts, no servers, no tracking.
 
